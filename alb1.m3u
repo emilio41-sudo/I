@@ -11,10 +11,8 @@ https://ch.iptvmate.net/d1ca05a2b7465abc1a4605c879bd8491.m3u8
 https://ch.iptvmate.net/cb1a825cd7803d1e5d7e34dc491892fa.m3u8
 #EXTINF:0,Koha TV
 rtmp://live.tvkoha.tv:1935/live/koha/livestream
-#EXTINF:0,News 24
-https://ch.iptvmate.net/eededa8389d2043a52f54ffb8442c990.m3u8
-#EXTINF:0,News 24
-https://ch.iptvmate.net/7d653d44cad1ac5e109b34882d6d1a57.m3u8
+
+
 #EXTINF:0,Ora TV
 https://ch.iptvmate.net/7d3db6dc302facdf371b377209c34cb7.m3u8
 #EXTINF:0,Peace TV
